@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268322601309",
+    "project_id": "qroom-e9601",
+    "storage_bucket": "qroom-e9601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268322601309:android:8196437717c770121c50b4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268322601309-frpvuvol8a401utijir84673kr8hlp1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR31QVvBYgPGdy5h-1ahwT2AGrNEmFXrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268322601309-frpvuvol8a401utijir84673kr8hlp1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
